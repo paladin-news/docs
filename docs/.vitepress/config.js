@@ -48,9 +48,10 @@ const config = {
       },
     ],
     footer: {
-      message: 'The Paladin Network',
+      message:
+        'The Paladin Network is a student-run organization and is editorially independent from Furman University.',
       copyright:
-        'Content on this website does not necessarily reflect the opinion of Furman University or its official representatives',
+        'It benefits the campus of Furman University and the Greenville area. Any opinions do not necessarily reflect the opinion of Furman University or any representatives of Furman.',
     },
   },
 };
