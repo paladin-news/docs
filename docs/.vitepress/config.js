@@ -44,6 +44,10 @@ const config = {
             text: 'Privacy policy',
             link: '/policies/privacy-policy',
           },
+          {
+            text: 'Photos',
+            link: '/policies/photos',
+          },
         ],
       },
     ],
