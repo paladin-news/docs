@@ -111,7 +111,7 @@ photo
 
 :::
 
-### Helpful resources
+## Helpful resources
 
 - [Creative Commons content search](https://search.creativecommons.org/)
 - [Pexels Creative Commons Images](https://www.pexels.com/creative-commons-images/)
