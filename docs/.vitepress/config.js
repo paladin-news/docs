@@ -32,22 +32,19 @@ const config = {
       {
         text: 'Policies',
         items: [
-          {
-            text: 'Constitution',
-            link: '/policies/constitution',
-          },
-          {
-            text: 'Student Media Board',
-            link: '/policies/student-media-board-constitution',
-          },
-          {
-            text: 'Privacy policy',
-            link: '/policies/privacy-policy',
-          },
-          {
-            text: 'Photos',
-            link: '/policies/photos',
-          },
+          { text: 'Constitution', link: '/policies/constitution' },
+          { text: 'Student Media Board', link: '/policies/student-media-board-constitution' },
+          { text: 'Privacy policy', link: '/policies/privacy-policy' },
+          { text: 'Photos', link: '/policies/photos' },
+        ],
+      },
+      {
+        text: 'Brand guides',
+        items: [
+          { text: 'The Paladin Network', link: '/brand-guides/the-paladin-network' },
+          { text: 'The Paladin Newspaper', link: '/brand-guides/the-paladin-newspaper' },
+          { text: 'The Flusher', link: '/brand-guides/the-flusher' },
+          { text: 'Furman University News Channel', link: '/brand-guides/func' },
         ],
       },
     ],
