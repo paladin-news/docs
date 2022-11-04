@@ -47,6 +47,15 @@ const config = {
           { text: 'Furman University News Channel', link: '/brand-guides/func' },
         ],
       },
+      {
+        text: 'Print Newspaper',
+        items: [
+          { text: 'Printing and shipping', link: '/print-newspaper/printing-and-shipping' },
+          { text: 'Schedule', link: '/print-newspaper/schedule' },
+          { text: 'Tips and guidelines', link: '/print-newspaper/tips-guidelines' },
+          { text: 'Archiving', link: '/print-newspaper/archiving' },
+        ],
+      },
     ],
     footer: {
       message:
