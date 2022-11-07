@@ -59,11 +59,11 @@ const config = {
       {
         text: 'Advertising',
         items: [
-          { text: 'Rate card', link: '/advertising/rate-card' },
-          { text: 'Website', link: '/advertising/website' },
-          { text: 'The Flusher', link: '/advertising/the-flusher' },
-          { text: 'Emails', link: '/advertising/emails' },
-          { text: 'Print newspaper', link: '/advertising/newspaper' },
+          { text: 'Rate card', link: '/rates/rate-card' },
+          { text: 'Website', link: '/rates/website' },
+          { text: 'The Flusher', link: '/rates/the-flusher' },
+          { text: 'Emails', link: '/rates/emails' },
+          { text: 'Print newspaper', link: '/rates/newspaper' },
         ],
       },
     ],
