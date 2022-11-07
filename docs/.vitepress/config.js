@@ -56,6 +56,16 @@ const config = {
           { text: 'Archiving', link: '/print-newspaper/archiving' },
         ],
       },
+      {
+        text: 'Advertising',
+        items: [
+          { text: 'Rate card', link: '/advertising/rate-card' },
+          { text: 'Website', link: '/advertising/website' },
+          { text: 'The Flusher', link: '/advertising/the-flusher' },
+          { text: 'Emails', link: '/advertising/emails' },
+          { text: 'Print newspaper', link: '/advertising/newspaper' },
+        ],
+      },
     ],
     footer: {
       message:
